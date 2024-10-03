@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(83, 99, 89);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+li {
+    margin-bottom: 10px;
+    background-color: rgb(150, 127, 111);
+    padding: 20px;
+}
+
+button {
+    margin-left: 10px;
+    padding: 2px;
+    background-color: grey;
+    box-shadow: 2px;
+}
